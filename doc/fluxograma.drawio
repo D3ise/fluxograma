@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-10T14:45:58.621Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="d44US4sB6zFQg9cIpFFj" version="24.5.2" type="device" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-06-17T14:07:31.174Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mY9sTiOUImw5F_rx1rUU" version="24.5.4" type="device" pages="6">
   <diagram name="Página-1" id="mab60y0g9BIxzLfjdxpM">
     <mxGraphModel dx="1434" dy="782" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="9ZjnTT0w3MI4GpvlhG_B-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9ZjnTT0w3MI4GpvlhG_B-4" target="9ZjnTT0w3MI4GpvlhG_B-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9ZjnTT0w3MI4GpvlhG_B-4" value="Dados do cliente; Nome, telefone, email e endereço." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="9ZjnTT0w3MI4GpvlhG_B-4" value="Dados do cliente; Nome, telefone e email ." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="414" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="oj0tM93XCMbd65IzXa3I-1" value="Sim" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9ZjnTT0w3MI4GpvlhG_B-6" target="yef1o6NZn2H_A7KWvMYI-4" edge="1">
