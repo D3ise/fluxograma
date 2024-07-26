@@ -28,6 +28,24 @@ build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/Aluno/fluxograma/Fluxograma/CadastroCliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.CadastroCliente.xaml
+build_metadata.AdditionalFiles.TargetPath = CadastroCliente.xaml
+build_metadata.AdditionalFiles.RelativePath = CadastroCliente.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/Cliente.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.Cliente.xaml
+build_metadata.AdditionalFiles.TargetPath = Cliente.xaml
+build_metadata.AdditionalFiles.RelativePath = Cliente.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/ClienteEditar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.ClienteEditar.xaml
+build_metadata.AdditionalFiles.TargetPath = ClienteEditar.xaml
+build_metadata.AdditionalFiles.RelativePath = ClienteEditar.xaml
+
 [C:/Users/Aluno/fluxograma/Fluxograma/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.MainPage.xaml
@@ -45,3 +63,9 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Aluno/fluxograma/Fluxograma/TelaInicial.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Fluxograma.TelaInicial.xaml
+build_metadata.AdditionalFiles.TargetPath = TelaInicial.xaml
+build_metadata.AdditionalFiles.RelativePath = TelaInicial.xaml
